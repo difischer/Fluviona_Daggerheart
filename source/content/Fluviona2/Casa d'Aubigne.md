@@ -1,0 +1,6 @@
+
+ Casa d'Aubigne (_d-oubinié_) es una antigua y respetada casa noble de Fluviona, conocida por su apoyo a las artes y la cultura en el reino. Han sido mecenas de artistas, arquitectos y artesanos a lo largo de generaciones, y su contribución a la belleza y la estética de Fluviona es ampliamente reconocida.
+
+Aunque su poder económico no es tan prominente como el de otras casas nobles o la Corporación Valtor, su influencia cultural y su capacidad para embellecer y enriquecer la ciudad a través del arte y la arquitectura les han ganado el favor de la realeza y la población en general. Debido a esto, se creó la Cámara de Secretarios del [[Consejo de Fluviona]], con la cual se les permitió participar activamente en la toma de decisiones que afectan el desarrollo y la estética del reino.
+
+[[Lady Isabella d'Aubigne]], como miembro de Casa d'Aubigne, ha heredado la pasión de su familia por las artes y la arquitectura. Como secretaria de Artes y Cultura, aboga por la promoción de estos en Fluviona, y trabaja para preservar y enriquecer el patrimonio cultural del reino. Sus habilidades artísticas y su visión creativa la convierten en una figura destacada dentro del consejo, y sus proyectos artísticos son muy apreciados tanto por el rey como por el pueblo.
