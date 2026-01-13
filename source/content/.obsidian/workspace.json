@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Fluviona.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Fluviona"
             }
           },
           {
-            "id": "2d8837e6263008e3",
+            "id": "f731ce29dc3d4d96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Sesión 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Some note"
+              "title": "Sesión 1"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Sesión 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Some note"
+              "title": "Backlinks for Sesión 1"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Sesión 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Some note"
+              "title": "Outgoing links from Sesión 1"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Sesión 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Some note"
+              "title": "Outline of Sesión 1"
             }
           }
         ]
@@ -185,18 +185,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "f731ce29dc3d4d96",
   "lastOpenFiles": [
+    "Rocabaja.md",
+    "Fluviona.md",
+    "Sesión 1.md",
+    "index.md",
+    "El Mito de la Creación.md",
+    "Acuerdo de Whitehorse.md",
+    "Personajes Notables/Rey Cassius Silverhand.md",
+    "Noble Cámara de Fluviona.md",
+    "Nomel.md",
+    "Imagenes y otros/Diego_real_no_fake.gif",
+    "Imagenes y otros/Diego_real_no_fake.mp4",
+    "Imagenes y otros/sweat-ezgif.com-gif-to-mp4-converter.gif",
+    "Imagenes y otros/sweat-ezgif.com-gif-to-mp4-converter.mp4",
+    "Imagenes y otros/Diego.gif",
+    "Imagenes y otros/live3d_target_fec5ae4e4ccce6709e9a70b009fbd6b2-ezgif.com-video-to-gif-converter.gif",
+    "Imagenes y otros/Diego_imagen_real.gif",
+    "Imagenes y otros/Sin confirmar 200376.crdownload",
+    "Imagenes y otros",
+    "Fluviona2/Sesión 0.1.md",
+    "Fluviona2/Sesión 1.md",
+    "Fluviona2/Reino de Fluvionaaa.md",
+    "Personajes Notables",
+    "Fluviona2/Relaciones Exteriores.md",
     "Fluviona2/Localizaciones/Rocabaja.md",
+    "category-folder/index.md",
+    "category-folder/Some note.md",
     "Fluviona2/Tiendas.md",
     "Fluviona2/Torre del Amanecer.md",
-    "Fluviona2/Sesión 1.md",
-    "Fluviona2/Sesión 0.1.md",
     "Fluviona2/Sesión 0.md",
-    "Fluviona2/Relaciones Exteriores.md",
     "Fluviona2/Rol.md",
     "Fluviona2/Religión en Fluviona.md",
-    "Fluviona2/Reino de Fluviona.md",
     "Fluviona2/Plothook e ideas",
     "Fluviona2/PNJ (Personajes No Jugadores).md",
     "Fluviona2/Objetos Magicos-.rar",
@@ -204,18 +225,6 @@
     "Fluviona2/Localizaciones",
     "Fluviona2/Lady Isabella d'Aubigne.md",
     "Fluviona2/Familias nobles.md",
-    "Fluviona2/Inquisidores.md",
-    "Fluviona2/Isenborg.md",
-    "Fluviona2/Ideas.md",
-    "Fluviona2/Escuela Real de Magia.md",
-    "Fluviona2/Escuela de Artes y Oficios.md",
-    "Fluviona2/El mito de la Creación.md",
-    "Fluviona2/Cultura y tradiciones de Fluviona.md",
-    "Fluviona2/Culto a Lura.md",
-    "Fluviona2/Culto a Lignos.md",
-    "Fluviona2/Cuarteles Generales de la Guardia Real.md",
-    "Fluviona2/Consejo de Fluviona.md",
-    "Fluviona2/Casa d'Aubigne.md",
     "Fluviona2",
     "category-folder"
   ]
