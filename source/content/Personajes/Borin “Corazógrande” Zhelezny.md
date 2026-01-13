@@ -1,0 +1,3 @@
+Al llegar al pueblo de [[Rocabaja]], unos grandes y marcados músculos, junto con una poderosa voz, es de las cosas más fáciles de notar. Guiado por un corazón bondadoso dedicado a ayudar a los desvalidos y a los más necesitados, Borin Zhelezny es la personificación de la fortaleza con propósito, este blande el amor al prójimo y la bondad como si fueran verdaderas armas en contra de las dificultades de la vida.
+
+Si bien no se sabe cual es su fuente de ingresos, es conocido por todos que dedica su día a proteger y ayudar a los desvalidos, tanto gente de su pueblo así como aventureros o cualquier persona que lo necesite, demostrando que la verdadera fuerza reside en la compasión y el apoyo a los necesitados.

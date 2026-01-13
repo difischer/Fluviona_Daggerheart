@@ -53,12 +53,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesión 1.md",
+                "file": "Personajes/Borin “Corazógrande” Zhelezny.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesión 1"
+              "title": "Borin “Corazógrande” Zhelezny"
+            }
+          },
+          {
+            "id": "3f8523eac3e0b73a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personajes/Borin “Corazógrande” Zhelezny.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Borin “Corazógrande” Zhelezny"
             }
           },
           {
@@ -67,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Borin “Corazógrande” Zhelezny.md",
+                "file": "Personajes/Borin “Corazógrande” Zhelezny.md",
                 "mode": "source",
                 "source": false
               },
@@ -76,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,12 +239,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f731ce29dc3d4d96",
+  "active": "069c8be7511a35cb",
   "lastOpenFiles": [
-    "Borin “Corazógrande” Zhelezny.md",
-    "Sesiones/Sesión 1.md",
-    "Nuestros Héroes.md",
     "Fluviona.md",
+    "Nuestros Héroes.md",
+    "Personajes/Borin “Corazógrande” Zhelezny.md",
+    "Personajes/Señora Clarita.md",
+    "Sesiones/Sesión 1.md",
+    "Lugares/Nomel.md",
     "index.md",
     "Varios/Noble Cámara de Fluviona.md",
     "Lugares",
@@ -241,8 +257,7 @@
     "Sesiones",
     "Lugares/Rocabaja.md",
     "Varios/El Mito de la Creación.md",
-    "Personajes Notables/Rey Cassius Silverhand.md",
-    "Lugares/Nomel.md",
+    "Personajes/Rey Cassius Silverhand.md",
     "Imagenes y otros/Diego_real_no_fake.gif",
     "Imagenes y otros/Diego_real_no_fake.mp4",
     "Imagenes y otros/sweat-ezgif.com-gif-to-mp4-converter.gif",
@@ -255,7 +270,7 @@
     "Fluviona2/Sesión 0.1.md",
     "Fluviona2/Sesión 1.md",
     "Fluviona2/Reino de Fluvionaaa.md",
-    "Personajes Notables",
+    "Personajes",
     "Fluviona2/Relaciones Exteriores.md",
     "Fluviona2/Localizaciones/Rocabaja.md",
     "category-folder/index.md",
@@ -266,7 +281,6 @@
     "Fluviona2/Rol.md",
     "Fluviona2/Religión en Fluviona.md",
     "Fluviona2/Plothook e ideas",
-    "Fluviona2/PNJ (Personajes No Jugadores).md",
-    "Fluviona2/Personajes Jugadores.md"
+    "Fluviona2/PNJ (Personajes No Jugadores).md"
   ]
 }
